@@ -1,5 +1,4 @@
-# Progetto unico per i corsi di
-## "Piattaforme per i Big Data" & "Machine Learning"
+# Progetto unico per i corsi di "Piattaforme per i Big Data" & "Machine Learning"
 
 
 ## Obiettivi dell'analisi
