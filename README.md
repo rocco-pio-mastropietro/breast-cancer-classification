@@ -42,3 +42,6 @@ della curva ROC, seguita da un alto valore AUC (0,98), per lo stesso algoritmo.
 L'esito delle operazioni condotte hanno confermato, pertanto, la bontà delle attività di analisi
 esplorativa e selezione dei dati, effettuate preliminarmente al fine di estrapolare un dataset
 idoneo per l'addestramento degli algoritmi di machine learning adottati.
+
+
+(Rocco Pio Mastropietro, 31/08/2025)
