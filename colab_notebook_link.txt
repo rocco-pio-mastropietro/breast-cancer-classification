@@ -1,3 +1,0 @@
-colab_notebook_link
-
-https://colab.research.google.com/drive/1zyqH0ofabQOK48K5psVIXJiLj5oGMENB?usp=share_link
